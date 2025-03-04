@@ -23,12 +23,12 @@ This tutorial covers the prerequisites and installation process for setting up a
 <img src="https://github.com/user-attachments/assets/a5a45a3b-0399-48d2-8392-04498148c9da" height="80%" width="80%"
 </p>
 <p>
-Create a Resource Group in Azure, then deploy a Windows 10 Virtual Machine within it. Once the VM is set up, use Remote Desktop Protocol (RDP) to log into the VM.
+Create a Resource Group in Azure, then deploy a Windows 10 Virtual Machine within it. Once the VM is set up, use Remote Desktop Protocol to log into the VM.
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/bc86718a-b84a-4683-b6aa-e80bb0d93e37" height="80%" width="80%"
+<img src="https://github.com/user-attachments/assets/ef617472-fca1-4d20-8d42-1375687ae9d6" height="80%" width="80%"
 </p>
 <p>
 Once inside the VM, open a web browser and navigate to https://whatismyipaddress.com/. View the IP information displayed and record it in Notepad or on a piece of paper for later reference.
