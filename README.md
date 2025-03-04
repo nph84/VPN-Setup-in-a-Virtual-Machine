@@ -20,7 +20,7 @@ This tutorial covers the prerequisites and installation process for setting up a
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/WKnl1Gd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a5a45a3b-0399-48d2-8392-04498148c9da" height="80%" width="80%"
 </p>
 <p>
 Create a Resource Group in Azure, then deploy a Windows 10 Virtual Machine within it. Once the VM is set up, use Remote Desktop Protocol (RDP) to log into the VM.
